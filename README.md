@@ -121,26 +121,31 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 ## Output
-### i) Write the frame as JPG image
+### i) Write the frame as JPG image:
+![screenshot 92](https://user-images.githubusercontent.com/93427254/163662743-baefb20c-46b8-41e7-a175-8945174563fc.jpg)
 
 </br>
 </br>
 
 
 ### ii) Display the video:
+![Screenshot (89)](https://user-images.githubusercontent.com/93427254/163662751-1045f30b-fdfe-4b33-87dd-37e400c9f78d.png)
 
 </br>
 </br>
 
 
-### iii) Display the video by resizing the window
+### iii) Display the video by resizing the window:
+![Screenshot (90)](https://user-images.githubusercontent.com/93427254/163662761-c9fd04b7-018e-43ad-b8eb-9c1e7e151318.png)
+
 </br>
 </br>
 
 
 
 ### iv) Rotate and display the video:
-<img src: s4.png>
+![Screenshot (91)](https://user-images.githubusercontent.com/93427254/163662771-c8a37f22-11a5-46fe-9f85-a0c1cc43a97f.png)
+
 </br>
 </br>
 
