@@ -129,7 +129,8 @@ cv2.destroyAllWindows()
 
 
 ### ii) Display the video:
-![Screenshot (91)](https://user-images.githubusercontent.com/93427254/163662942-40d051cd-c5ae-4e3d-bd3e-f624aadf057c.png)
+![Screenshot (92)](https://user-images.githubusercontent.com/93427254/163663015-505ee4b9-e970-4229-948e-52d2d8b4ad4b.png)
+
 
 
 </br>
@@ -145,7 +146,8 @@ cv2.destroyAllWindows()
 
 
 ### iv) Rotate and display the video:
-![Screenshot (89)](https://user-images.githubusercontent.com/93427254/163662954-5eba7d7b-f055-4a99-964a-9b81a9e69e10.png)
+![Screenshot (95)](https://user-images.githubusercontent.com/93427254/163663038-3e69cfd5-6986-4936-9236-53215089b3d4.png)
+
 
 
 </br>
